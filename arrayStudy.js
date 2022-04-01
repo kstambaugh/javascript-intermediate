@@ -13,9 +13,7 @@ const players = ["kyle","cam","kazz","jae","anthony"]
 //     console.log(array[i])
 // }
 
-// for(let i =0;i<weapons.length;i++ ){
-//     console.log()
-// }
+
 
 for(let i = 0; i < foods.length; i++){
     if(foods[i]==="pizza"){
